@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_9.2.cpp
+C:\Users\1\source\repos\lab_9.2__A\lab_9.2__\Source.cpp(106,9): warning C4101: 'kurs': unreferenced local variable
+     Creating library C:\Users\1\source\repos\lab_9.2__A\Debug\UnitTest_9.2.lib and object C:\Users\1\source\repos\lab_9.2__A\Debug\UnitTest_9.2.exp
+  UnitTest_9.2.vcxproj -> C:\Users\1\source\repos\lab_9.2__A\Debug\UnitTest_9.2.dll

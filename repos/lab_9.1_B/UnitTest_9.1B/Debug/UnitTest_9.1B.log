@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_9.1B.cpp
+C:\Users\1\source\repos\lab_9.1_B\UnitTest_9.1B\UnitTest_9.1B.cpp(18,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\1\source\repos\lab_9.1_B\Debug\UnitTest_9.1B.lib and object C:\Users\1\source\repos\lab_9.1_B\Debug\UnitTest_9.1B.exp
+  UnitTest_9.1B.vcxproj -> C:\Users\1\source\repos\lab_9.1_B\Debug\UnitTest_9.1B.dll
